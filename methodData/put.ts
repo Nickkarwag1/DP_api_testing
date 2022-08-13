@@ -1,11 +1,11 @@
 export const PUT = {
-    TODO: {
+    TODO_FOR_PUT: {
         put: "update put",
     },
-    USER: {
+    USER_FOR_PUT: {
         username: "New_user",
     },
-    COMMENT: {
+    COMMENT_FOR_PUT: {
         body: "New comment",
     },
 };

@@ -1,18 +1,18 @@
 export const PATCH = {
-    TODO: {
+    TODO_FOR_PATCH: {
         userId: 1,
         id: 1,
         title: "delectus aut autem",
         completed: false,
         patch: "method patch update todo",
     },
-    ALBUM: {
+    ALBUM_FOR_PATCH: {
         userId: 1,
         id: 1,
         title: "quidem molestiae enim",
         patch: "method patch update album",
     },
-    PHOTO: {
+    PHOTO_FOR_PATCH: {
         albumId: 1,
         id: 1,
         title: "accusamus beatae ad facilis cum similique qui sunt",
